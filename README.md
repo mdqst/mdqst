@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdqst
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Blockchain tech
 - 🌱 I’m currently learning Solidity...
 - 📫 twitter @mdqst1
 <!---
