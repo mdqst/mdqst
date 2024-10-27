@@ -18,8 +18,8 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40mdqst-blue)](https://x.com/mdqst1)
-[![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst-blue)](https://warpcast.com/mdqst)
+[![X](https://img.shields.io/badge/Twitter-%40@mdqst1-blue)](https://x.com/mdqst1)
+[![Farcaster](https://img.shields.io/badge/Farcaster-%40@mdqst-blue)](https://warpcast.com/mdqst)
 
 <!---
 mdqst/mdqst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
