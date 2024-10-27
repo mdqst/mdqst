@@ -14,26 +14,13 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdqst&theme=radical&column=7)
 
-
 ---
 
 ## 🌐 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mdqst-blue)](https://x.com/mdqst1)
-[![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst)](https://warpcast.com/mdqst)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yourwebsite.com)
+[![Farcaster](https://img.shields.io/badge/LinkedIn-%40yourusername-blue)](https://warpcast.com/mdqst)
 
-
-
----
-
-## 💬 Let's Connect!
-
-Feel free to reach out for collaborations, questions, or just to say hi! I’m always open to interesting discussions around tech and blockchain.
-
----
-
-Thanks for visiting my profile! 😄
 <!---
 mdqst/mdqst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
