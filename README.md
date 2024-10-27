@@ -10,14 +10,6 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ---
 
-## 🏆 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mdqst&show_icons=true)
-<img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mdqst&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-
----
-
 ## 🌐 Connect with Me
 
 [![X](https://img.shields.io/badge/X-%40mdqst1-blue)](https://x.com/mdqst1)
