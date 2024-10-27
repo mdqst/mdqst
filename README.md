@@ -19,7 +19,7 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40yourusername-blue)](https://twitter.com/mdqst)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mdqst-blue)](https://x.com/mdqst)
 
 ---
 
