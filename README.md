@@ -10,9 +10,8 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ---
 
-## 🏆 Trophies
+## 🏆 Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mdqst&theme=radical&column=7)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mdqst&show_icons=true)
 
 ---
