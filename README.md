@@ -20,7 +20,7 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 ## 🌐 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mdqst-blue)](https://x.com/mdqst1)
-[![Farcaster](https://img.shields.io/badge/LinkedIn-%40yourusername-blue)](https://warpcast.com/mdqst)
+[![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst)](https://warpcast.com/mdqst)
 
 
 ---
