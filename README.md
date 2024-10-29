@@ -1,6 +1,6 @@
 # 👋 Hello! I'm mdqst
 
-## 🌟 About Me
+## 🌟 About
 
 I am a dedicated crypto researcher with a passion for creating clear, comprehensive project documentation and developing efficient smart contracts.
 
