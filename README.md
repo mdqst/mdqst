@@ -16,6 +16,6 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 [![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst-purple)](https://warpcast.com/mdqst)
 
 <!---
-mdqst/mdqst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mdqst/mdqst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes.
 --->
