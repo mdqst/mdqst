@@ -10,6 +10,17 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 
 ---
 
+## 📈 Stats
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98899785" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98899785&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mdqst" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98899785&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+---
+
 ## 🌐 Connect with Me
 
 [![X](https://img.shields.io/badge/X-%40mdqst1-blue)](https://x.com/mdqst1)
