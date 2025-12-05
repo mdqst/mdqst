@@ -24,7 +24,7 @@ With a meticulous approach, I aim to deliver projects that are both technically 
 ## 🌐 Connect with Me
 
 [![X](https://img.shields.io/badge/X-%40mdqst1-blue)](https://x.com/mdqst1)
-[![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst-purple)](https://warpcast.com/mdqst)
+[![Farcaster](https://img.shields.io/badge/Farcaster-%40mdqst-purple)](https://farcaster.xyz/mdqst)
 <a href="https://t.me/mediaquest"><img src="https://img.shields.io/badge/telegram-@mediaquest-blue.svg?style=flat-square&logo=telegram"></a>
 
 <!---
